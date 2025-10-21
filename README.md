@@ -44,3 +44,4 @@ The application will launch a web interface in your default browser where you ca
 - Real-time streaming responses from Perplexity AI
 - Clean and intuitive chat interface powered by Gradio
 - Conversation history maintained during the session
+- Citation sources are displayed as clickable links below each response with titles and dates
