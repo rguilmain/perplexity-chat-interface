@@ -1,6 +1,6 @@
 # Perplexity Chat Interface
 
-A simple web-based chat interface for Perplexity AI with streaming responses, built with Gradio.
+A simple web-based chat interface for Perplexity AI with streaming responses, conversation history, and clickable citations.
 
 ## Prerequisites
 
